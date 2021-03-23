@@ -3,6 +3,10 @@
 This is a python port of the node.js library `entangld`, which you can checkout
 [here](https://github.com/DaxBot/entangld)
 
+## Basic Usage
+// TODO
+
+Be sure to checkout the full api [here](API.md)
 
 # TODO
  - Add more some examples to the readme
