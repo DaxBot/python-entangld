@@ -9,6 +9,7 @@ This is a python port of the node.js library `entangld`, which you can checkout
 Be sure to checkout the full api [here](API.md)
 
 # TODO
+ - GIVE `entangld.Entangld` A `__repr__` for goodness sake!
  - Add more some examples to the readme
  - Add more documentation
  - Add more tests

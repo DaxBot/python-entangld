@@ -5,7 +5,7 @@ stores with RPCs and pub/sub events.
 """
 
 
-from .entangld import Entangld
+from .entangld import Entangld, Entangld_Message, EntangldError
 
 __author__ = "Jonathan D. B. Van Schenck"
 __email__ = "jvschenck@novadynamics.com"

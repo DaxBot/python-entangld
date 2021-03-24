@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="entangld",
-    version="1.0.0",
+    version="1.0.1",
     author="Jonathan D B Van Schenck",
     author_email="jvschenck@novadynamics.com",
     description="Synchronized key-value stores with RPCs and pub/sub events. (Port of node.js version)",
